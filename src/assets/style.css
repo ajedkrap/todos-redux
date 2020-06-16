@@ -1,0 +1,8 @@
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  background: linear-gradient(90deg,  #d931ff ,	#7f00ff );
+}
